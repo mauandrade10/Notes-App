@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.6abf0866.css",
-    "main.js": "./static/js/main.8d33d31a.js",
-    "index.html": "./index.html",
-    "static/media/delete.svg": "./static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "./static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.6abf0866.css.map": "./static/css/main.6abf0866.css.map",
-    "main.8d33d31a.js.map": "./static/js/main.8d33d31a.js.map"
+    "main.css": "/mauandrade10/Notes-App/static/css/main.6abf0866.css",
+    "main.js": "/mauandrade10/Notes-App/static/js/main.ccc3b9b2.js",
+    "index.html": "/mauandrade10/Notes-App/index.html",
+    "static/media/delete.svg": "/mauandrade10/Notes-App/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/mauandrade10/Notes-App/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.6abf0866.css.map": "/mauandrade10/Notes-App/static/css/main.6abf0866.css.map",
+    "main.ccc3b9b2.js.map": "/mauandrade10/Notes-App/static/js/main.ccc3b9b2.js.map"
   },
   "entrypoints": [
     "static/css/main.6abf0866.css",
-    "static/js/main.8d33d31a.js"
+    "static/js/main.ccc3b9b2.js"
   ]
 }
